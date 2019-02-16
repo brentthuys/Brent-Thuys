@@ -1,15 +1,15 @@
 # Welkom bij mijn e-portfolio
 
 
-##Home
+## Home
 
 
-##Competenties-Vaardigheden
+## Competenties-Vaardigheden
 
 ## Gerealiseerde projecten
 
-##CV
+## CV
 
-##Contactpagina
+## Contactpagina
 
 
